@@ -24,4 +24,4 @@ https://docs.google.com/document/d/14h52PR7GyiFs0Zvd3GrlzjTYgVmI5WmVlR-FvaOwyj4/
 ## Back-end
 
 **Segue abaixo o link da API:** <br>
-https://docs.google.com/document/d/14h52PR7GyiFs0Zvd3GrlzjTYgVmI5WmVlR-FvaOwyj4/edit
+https://github.com/MatheusVibrio/api-easy-question
