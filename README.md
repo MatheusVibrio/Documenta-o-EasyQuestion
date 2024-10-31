@@ -19,7 +19,7 @@ https://www.figma.com/design/70A3KTm9dPeM8pc52oYmrv/Easy-Question?node-id=0-1&t=
 ## Front-end
 
 **Segue abaixo o link do site:** <br>
-https://docs.google.com/document/d/14h52PR7GyiFs0Zvd3GrlzjTYgVmI5WmVlR-FvaOwyj4/edit
+https://github.com/MatheusVibrio/easyquestion
 
 ## Back-end
 
